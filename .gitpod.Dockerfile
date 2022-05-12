@@ -6,3 +6,5 @@ RUN _ruby_version=ruby-2.7.3 \
     && bash -lc "rvm reinstall ruby-${_ruby_version} && rvm use ruby-${_ruby_version} --default && gem install rails" \
     && printf "rvm_gems_path=/workspace/.rvm" > ~/.rvmrc \
     && printf '{ rvm use $(rvm current); } >/dev/null 2>&1\n' >> "$HOME/.bashrc.d/70-ruby"
+
+RUN gem install bundler:2.2.17
