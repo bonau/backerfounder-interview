@@ -1,3 +1,7 @@
-<div>
-<%= post.body %> by <%= post.user.email %>
+<div class="comment">
+<%= post.body %> by <%= post.user.email %> <%= link_to 'reply', action: 'comment', id: post.id %>
+<%- post.children.each do |child| %>
+    <%= render child %>
+<%- end %>
+
 </div>
