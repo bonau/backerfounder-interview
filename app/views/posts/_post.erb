@@ -1,5 +1,5 @@
 <div class="comment">
-<%= post.body %> by <%= post.user.email %> <%= link_to 'reply', action: 'comment', id: post.id %>
+<%= post.body %> by <%= post.user.email %> <%= link_to 'reply', action: 'comment', id: post.id if post.ancestor_ids.size < 8%>
 <%- post.children.each do |child| %>
     <%= render child %>
 <%- end %>
