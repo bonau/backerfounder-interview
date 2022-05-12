@@ -1,9 +1,176 @@
-# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+---
+Post_1:
+  id: 1
+  title: first post!
+  body: hahaha you lose
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:00:59.888622000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-12 23:00:59.888622000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:00:59.888622000 Z
+    zone: *1
+    time: 2022-05-12 23:00:59.888622000 Z
+  user_id: 1
 
-one:
-  title: MyString
-  body: MyText
+---
+Post_2:
+  id: 2
+  title: second post
+  body: how dare you
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:14.719455000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-12 23:01:14.719455000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:14.719455000 Z
+    zone: *1
+    time: 2022-05-12 23:01:14.719455000 Z
+  user_id: 1
 
-two:
-  title: MyString
-  body: MyText
+---
+Post_3:
+  id: 3
+  body: test
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:19.689634000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-12 23:01:19.689634000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:19.689634000 Z
+    zone: *1
+    time: 2022-05-12 23:01:19.689634000 Z
+  user_id: 1
+  ancestry: '2'
+
+---
+Post_4:
+  id: 4
+  body: hoyo
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:24.097527000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-12 23:01:24.097527000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:24.097527000 Z
+    zone: *1
+    time: 2022-05-12 23:01:24.097527000 Z
+  user_id: 1
+  ancestry: '2'
+
+---
+Post_5:
+  id: 5
+  body: test2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:27.466547000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-12 23:01:27.466547000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:27.466547000 Z
+    zone: *1
+    time: 2022-05-12 23:01:27.466547000 Z
+  user_id: 1
+  ancestry: 2/3
+
+---
+Post_6:
+  id: 6
+  body: test3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:31.506569000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-12 23:01:31.506569000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:31.506569000 Z
+    zone: *1
+    time: 2022-05-12 23:01:31.506569000 Z
+  user_id: 1
+  ancestry: 2/3/5
+
+---
+Post_7:
+  id: 7
+  body: test4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:34.780920000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-12 23:01:34.780920000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:34.780920000 Z
+    zone: *1
+    time: 2022-05-12 23:01:34.780920000 Z
+  user_id: 1
+  ancestry: 2/3/5/6
+
+---
+Post_8:
+  id: 8
+  body: test5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:38.136473000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-12 23:01:38.136473000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:38.136473000 Z
+    zone: *1
+    time: 2022-05-12 23:01:38.136473000 Z
+  user_id: 1
+  ancestry: 2/3/5/6/7
+
+---
+Post_9:
+  id: 9
+  body: test6
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:41.166126000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-12 23:01:41.166126000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:41.166126000 Z
+    zone: *1
+    time: 2022-05-12 23:01:41.166126000 Z
+  user_id: 1
+  ancestry: 2/3/5/6/7/8
+
+---
+Post_10:
+  id: 10
+  body: test7
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:44.414235000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-12 23:01:44.414235000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:44.414235000 Z
+    zone: *1
+    time: 2022-05-12 23:01:44.414235000 Z
+  user_id: 1
+  ancestry: 2/3/5/6/7/8/9
+
+---
+Post_11:
+  id: 11
+  body: test8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:47.405192000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-12 23:01:47.405192000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-12 23:01:47.405192000 Z
+    zone: *1
+    time: 2022-05-12 23:01:47.405192000 Z
+  user_id: 1
+  ancestry: 2/3/5/6/7/8/9/10
+
