@@ -1,5 +1,5 @@
 class PostsController < ApplicationController
-  before_action :set_post, only: %i[ show edit update destroy comment ]
+  before_action :set_post, only: %i[ show edit update destroy comment upvote unvote ]
   #before_action :set_parent, only: %i[  ]
   before_action :authenticate_user!, except: [:index, :show]
 
@@ -62,6 +62,19 @@ class PostsController < ApplicationController
   # GET /posts/1/comment
   def comment
     @post = Post.new(parent_id: @post.id)
+  end
+
+  # POST /posts/1/upvote
+  def upvote
+    @upvote = @post.upvotes.first_or_create(user: current_user)
+    redirect_to @post
+  end
+
+  # POST /posts/1/upvote
+  def unvote
+    @upvote = @post.upvotes.where(user: current_user).first
+    @upvote.destroy if @upvote
+    redirect_to @post
   end
 
   private

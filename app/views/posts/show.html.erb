@@ -1,5 +1,18 @@
 <p id="notice"><%= notice %></p>
 
+<div class="upvote">
+  <div class="button">
+  <%- if @post.liked_by_user?(current_user) %>
+    <%= button_to '-', action: 'unvote', method: :post %>
+  <%- else %>
+    <%= button_to '+', action: 'upvote', method: :post %>
+  <%- end %>
+  </div>
+  <div>
+    Upvotes: <%= @post.upvotes.count %>
+  </div>
+</div>
+
 <p>
   <strong>Title:</strong>
   <%= @post.title %>
