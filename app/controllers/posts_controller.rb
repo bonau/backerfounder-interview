@@ -66,7 +66,7 @@ class PostsController < ApplicationController
 
   # POST /posts/1/upvote
   def upvote
-    @upvote = @post.upvotes.first_or_create(user: current_user)
+    @upvote = @post.upvotes.where(user: current_user).first_or_create
     redirect_to @post
   end
 
