@@ -60,3 +60,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'   # for user management
 gem 'ancestry' # for nested post
+gem 'whenever' # for cron jobs
