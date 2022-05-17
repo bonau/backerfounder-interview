@@ -9,10 +9,11 @@ Post_1:
       name: Etc/UTC
     time: 2022-05-12 23:00:59.888622000 Z
   updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: 2022-05-12 23:00:59.888622000 Z
+    utc: 2022-05-17 06:05:02.085226000 Z
     zone: *1
-    time: 2022-05-12 23:00:59.888622000 Z
+    time: 2022-05-17 06:05:02.085226000 Z
   user_id: 1
+  weight: -7.263625093779718e-12
 
 ---
 Post_2:
@@ -25,10 +26,11 @@ Post_2:
       name: Etc/UTC
     time: 2022-05-12 23:01:14.719455000 Z
   updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: 2022-05-12 23:01:14.719455000 Z
+    utc: 2022-05-17 06:05:02.090864000 Z
     zone: *1
-    time: 2022-05-12 23:01:14.719455000 Z
+    time: 2022-05-17 06:05:02.090864000 Z
   user_id: 1
+  weight: 8.571762171312975e-10
 
 ---
 Post_3:
@@ -40,11 +42,12 @@ Post_3:
       name: Etc/UTC
     time: 2022-05-12 23:01:19.689634000 Z
   updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: 2022-05-12 23:01:19.689634000 Z
+    utc: 2022-05-17 06:05:02.095960000 Z
     zone: *1
-    time: 2022-05-12 23:01:19.689634000 Z
+    time: 2022-05-17 06:05:02.095960000 Z
   user_id: 1
   ancestry: '2'
+  weight: -7.264399662307389e-12
 
 ---
 Post_4:
@@ -56,11 +59,12 @@ Post_4:
       name: Etc/UTC
     time: 2022-05-12 23:01:24.097527000 Z
   updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: 2022-05-12 23:01:24.097527000 Z
+    utc: 2022-05-17 06:05:02.100621000 Z
     zone: *1
-    time: 2022-05-12 23:01:24.097527000 Z
+    time: 2022-05-17 06:05:02.100621000 Z
   user_id: 1
   ancestry: '2'
+  weight: -7.2645720755123e-12
 
 ---
 Post_5:
@@ -72,11 +76,12 @@ Post_5:
       name: Etc/UTC
     time: 2022-05-12 23:01:27.466547000 Z
   updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: 2022-05-12 23:01:27.466547000 Z
+    utc: 2022-05-17 06:05:02.106445000 Z
     zone: *1
-    time: 2022-05-12 23:01:27.466547000 Z
+    time: 2022-05-17 06:05:02.106445000 Z
   user_id: 1
   ancestry: 2/3
+  weight: -7.2647038165382805e-12
 
 ---
 Post_6:
@@ -88,11 +93,12 @@ Post_6:
       name: Etc/UTC
     time: 2022-05-12 23:01:31.506569000 Z
   updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: 2022-05-12 23:01:31.506569000 Z
+    utc: 2022-05-17 06:05:02.113322000 Z
     zone: *1
-    time: 2022-05-12 23:01:31.506569000 Z
+    time: 2022-05-17 06:05:02.113322000 Z
   user_id: 1
   ancestry: 2/3/5
+  weight: -7.2648617752959905e-12
 
 ---
 Post_7:
@@ -104,11 +110,12 @@ Post_7:
       name: Etc/UTC
     time: 2022-05-12 23:01:34.780920000 Z
   updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: 2022-05-12 23:01:34.780920000 Z
+    utc: 2022-05-17 06:05:02.120322000 Z
     zone: *1
-    time: 2022-05-12 23:01:34.780920000 Z
+    time: 2022-05-17 06:05:02.120322000 Z
   user_id: 1
   ancestry: 2/3/5/6
+  weight: -7.264989726877746e-12
 
 ---
 Post_8:
@@ -120,11 +127,12 @@ Post_8:
       name: Etc/UTC
     time: 2022-05-12 23:01:38.136473000 Z
   updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: 2022-05-12 23:01:38.136473000 Z
+    utc: 2022-05-17 06:05:02.125618000 Z
     zone: *1
-    time: 2022-05-12 23:01:38.136473000 Z
+    time: 2022-05-17 06:05:02.125618000 Z
   user_id: 1
   ancestry: 2/3/5/6/7
+  weight: -7.265120900598205e-12
 
 ---
 Post_9:
@@ -136,11 +144,12 @@ Post_9:
       name: Etc/UTC
     time: 2022-05-12 23:01:41.166126000 Z
   updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: 2022-05-12 23:01:41.166126000 Z
+    utc: 2022-05-17 06:05:02.130225000 Z
     zone: *1
-    time: 2022-05-12 23:01:41.166126000 Z
+    time: 2022-05-17 06:05:02.130225000 Z
   user_id: 1
   ancestry: 2/3/5/6/7/8
+  weight: -7.265239369806596e-12
 
 ---
 Post_10:
@@ -152,11 +161,12 @@ Post_10:
       name: Etc/UTC
     time: 2022-05-12 23:01:44.414235000 Z
   updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: 2022-05-12 23:01:44.414235000 Z
+    utc: 2022-05-17 06:05:02.134723000 Z
     zone: *1
-    time: 2022-05-12 23:01:44.414235000 Z
+    time: 2022-05-17 06:05:02.134723000 Z
   user_id: 1
   ancestry: 2/3/5/6/7/8/9
+  weight: -7.26536641272459e-12
 
 ---
 Post_11:
@@ -168,9 +178,10 @@ Post_11:
       name: Etc/UTC
     time: 2022-05-12 23:01:47.405192000 Z
   updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: 2022-05-12 23:01:47.405192000 Z
+    utc: 2022-05-17 06:05:02.139766000 Z
     zone: *1
-    time: 2022-05-12 23:01:47.405192000 Z
+    time: 2022-05-17 06:05:02.139766000 Z
   user_id: 1
   ancestry: 2/3/5/6/7/8/9/10
+  weight: -7.2654833656726886e-12
 

@@ -1,0 +1,1785 @@
+---
+Upvote_1:
+  id: 9
+  user_id: 1
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-13 01:09:14.252362000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-13 01:09:14.252362000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-13 01:09:14.252362000 Z
+    zone: *1
+    time: 2022-05-13 01:09:14.252362000 Z
+
+---
+Upvote_2:
+  id: 11
+  user_id: 3
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.102222000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.102222000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.102222000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.102222000 Z
+
+---
+Upvote_3:
+  id: 12
+  user_id: 4
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.106290000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.106290000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.106290000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.106290000 Z
+
+---
+Upvote_4:
+  id: 13
+  user_id: 5
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.109703000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.109703000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.109703000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.109703000 Z
+
+---
+Upvote_5:
+  id: 14
+  user_id: 6
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.112928000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.112928000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.112928000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.112928000 Z
+
+---
+Upvote_6:
+  id: 15
+  user_id: 7
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.116132000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.116132000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.116132000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.116132000 Z
+
+---
+Upvote_7:
+  id: 16
+  user_id: 8
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.119162000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.119162000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.119162000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.119162000 Z
+
+---
+Upvote_8:
+  id: 17
+  user_id: 9
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.122095000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.122095000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.122095000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.122095000 Z
+
+---
+Upvote_9:
+  id: 18
+  user_id: 10
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.125073000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.125073000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.125073000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.125073000 Z
+
+---
+Upvote_10:
+  id: 19
+  user_id: 11
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.128156000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.128156000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.128156000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.128156000 Z
+
+---
+Upvote_11:
+  id: 20
+  user_id: 12
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.131783000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.131783000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.131783000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.131783000 Z
+
+---
+Upvote_12:
+  id: 21
+  user_id: 13
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.135420000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.135420000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.135420000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.135420000 Z
+
+---
+Upvote_13:
+  id: 22
+  user_id: 14
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.139279000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.139279000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.139279000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.139279000 Z
+
+---
+Upvote_14:
+  id: 23
+  user_id: 15
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.142743000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.142743000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.142743000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.142743000 Z
+
+---
+Upvote_15:
+  id: 24
+  user_id: 16
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.147118000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.147118000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.147118000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.147118000 Z
+
+---
+Upvote_16:
+  id: 25
+  user_id: 17
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.151391000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.151391000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.151391000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.151391000 Z
+
+---
+Upvote_17:
+  id: 26
+  user_id: 18
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.155966000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.155966000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.155966000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.155966000 Z
+
+---
+Upvote_18:
+  id: 27
+  user_id: 19
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.160322000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.160322000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.160322000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.160322000 Z
+
+---
+Upvote_19:
+  id: 28
+  user_id: 20
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.164173000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.164173000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.164173000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.164173000 Z
+
+---
+Upvote_20:
+  id: 29
+  user_id: 21
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.167567000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.167567000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.167567000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.167567000 Z
+
+---
+Upvote_21:
+  id: 30
+  user_id: 22
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.170786000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.170786000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.170786000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.170786000 Z
+
+---
+Upvote_22:
+  id: 31
+  user_id: 23
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.174029000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.174029000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.174029000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.174029000 Z
+
+---
+Upvote_23:
+  id: 32
+  user_id: 24
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.177195000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.177195000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.177195000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.177195000 Z
+
+---
+Upvote_24:
+  id: 33
+  user_id: 25
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.180347000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.180347000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.180347000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.180347000 Z
+
+---
+Upvote_25:
+  id: 34
+  user_id: 26
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.183518000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.183518000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.183518000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.183518000 Z
+
+---
+Upvote_26:
+  id: 35
+  user_id: 27
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.186644000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.186644000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.186644000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.186644000 Z
+
+---
+Upvote_27:
+  id: 36
+  user_id: 28
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.189657000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.189657000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.189657000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.189657000 Z
+
+---
+Upvote_28:
+  id: 37
+  user_id: 29
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.192553000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.192553000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.192553000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.192553000 Z
+
+---
+Upvote_29:
+  id: 38
+  user_id: 30
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.195735000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.195735000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.195735000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.195735000 Z
+
+---
+Upvote_30:
+  id: 39
+  user_id: 31
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.198815000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.198815000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.198815000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.198815000 Z
+
+---
+Upvote_31:
+  id: 40
+  user_id: 32
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.201825000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.201825000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.201825000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.201825000 Z
+
+---
+Upvote_32:
+  id: 41
+  user_id: 33
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.205054000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.205054000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.205054000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.205054000 Z
+
+---
+Upvote_33:
+  id: 42
+  user_id: 34
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.208121000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.208121000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.208121000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.208121000 Z
+
+---
+Upvote_34:
+  id: 43
+  user_id: 35
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.211159000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.211159000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.211159000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.211159000 Z
+
+---
+Upvote_35:
+  id: 44
+  user_id: 36
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.213997000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.213997000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.213997000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.213997000 Z
+
+---
+Upvote_36:
+  id: 45
+  user_id: 37
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.216934000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.216934000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.216934000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.216934000 Z
+
+---
+Upvote_37:
+  id: 46
+  user_id: 38
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.219986000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.219986000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.219986000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.219986000 Z
+
+---
+Upvote_38:
+  id: 47
+  user_id: 39
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.222959000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.222959000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.222959000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.222959000 Z
+
+---
+Upvote_39:
+  id: 48
+  user_id: 40
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.225932000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.225932000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.225932000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.225932000 Z
+
+---
+Upvote_40:
+  id: 49
+  user_id: 41
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.228904000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.228904000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.228904000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.228904000 Z
+
+---
+Upvote_41:
+  id: 50
+  user_id: 42
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.232033000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.232033000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.232033000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.232033000 Z
+
+---
+Upvote_42:
+  id: 51
+  user_id: 43
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.235413000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.235413000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.235413000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.235413000 Z
+
+---
+Upvote_43:
+  id: 52
+  user_id: 44
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.238799000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.238799000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.238799000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.238799000 Z
+
+---
+Upvote_44:
+  id: 53
+  user_id: 45
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.242170000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.242170000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.242170000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.242170000 Z
+
+---
+Upvote_45:
+  id: 54
+  user_id: 46
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.245570000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.245570000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.245570000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.245570000 Z
+
+---
+Upvote_46:
+  id: 55
+  user_id: 47
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.248693000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.248693000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.248693000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.248693000 Z
+
+---
+Upvote_47:
+  id: 56
+  user_id: 48
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.251748000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.251748000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.251748000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.251748000 Z
+
+---
+Upvote_48:
+  id: 57
+  user_id: 49
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.254727000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.254727000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.254727000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.254727000 Z
+
+---
+Upvote_49:
+  id: 58
+  user_id: 50
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.258069000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.258069000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.258069000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.258069000 Z
+
+---
+Upvote_50:
+  id: 59
+  user_id: 51
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.261587000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.261587000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.261587000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.261587000 Z
+
+---
+Upvote_51:
+  id: 60
+  user_id: 52
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.265012000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.265012000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.265012000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.265012000 Z
+
+---
+Upvote_52:
+  id: 61
+  user_id: 53
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.268264000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.268264000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.268264000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.268264000 Z
+
+---
+Upvote_53:
+  id: 62
+  user_id: 54
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.271244000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.271244000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.271244000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.271244000 Z
+
+---
+Upvote_54:
+  id: 63
+  user_id: 55
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.274178000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.274178000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.274178000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.274178000 Z
+
+---
+Upvote_55:
+  id: 64
+  user_id: 56
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.277289000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.277289000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.277289000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.277289000 Z
+
+---
+Upvote_56:
+  id: 65
+  user_id: 57
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.280337000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.280337000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.280337000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.280337000 Z
+
+---
+Upvote_57:
+  id: 66
+  user_id: 58
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.283357000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.283357000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.283357000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.283357000 Z
+
+---
+Upvote_58:
+  id: 67
+  user_id: 59
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.286626000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.286626000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.286626000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.286626000 Z
+
+---
+Upvote_59:
+  id: 68
+  user_id: 60
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.289871000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.289871000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.289871000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.289871000 Z
+
+---
+Upvote_60:
+  id: 69
+  user_id: 61
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.293183000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.293183000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.293183000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.293183000 Z
+
+---
+Upvote_61:
+  id: 70
+  user_id: 62
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.296286000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.296286000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.296286000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.296286000 Z
+
+---
+Upvote_62:
+  id: 71
+  user_id: 63
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.299551000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.299551000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.299551000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.299551000 Z
+
+---
+Upvote_63:
+  id: 72
+  user_id: 64
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.303072000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.303072000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.303072000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.303072000 Z
+
+---
+Upvote_64:
+  id: 73
+  user_id: 65
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.310737000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.310737000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.310737000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.310737000 Z
+
+---
+Upvote_65:
+  id: 74
+  user_id: 66
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.315275000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.315275000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.315275000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.315275000 Z
+
+---
+Upvote_66:
+  id: 75
+  user_id: 67
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.322178000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.322178000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.322178000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.322178000 Z
+
+---
+Upvote_67:
+  id: 76
+  user_id: 68
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.328682000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.328682000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.328682000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.328682000 Z
+
+---
+Upvote_68:
+  id: 77
+  user_id: 69
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.333278000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.333278000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.333278000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.333278000 Z
+
+---
+Upvote_69:
+  id: 78
+  user_id: 70
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.336756000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.336756000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.336756000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.336756000 Z
+
+---
+Upvote_70:
+  id: 79
+  user_id: 71
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.340035000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.340035000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.340035000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.340035000 Z
+
+---
+Upvote_71:
+  id: 80
+  user_id: 72
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.343295000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.343295000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.343295000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.343295000 Z
+
+---
+Upvote_72:
+  id: 81
+  user_id: 73
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.346295000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.346295000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.346295000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.346295000 Z
+
+---
+Upvote_73:
+  id: 82
+  user_id: 74
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.349530000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.349530000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.349530000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.349530000 Z
+
+---
+Upvote_74:
+  id: 83
+  user_id: 75
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.352596000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.352596000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.352596000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.352596000 Z
+
+---
+Upvote_75:
+  id: 84
+  user_id: 76
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.355527000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.355527000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.355527000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.355527000 Z
+
+---
+Upvote_76:
+  id: 85
+  user_id: 77
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.358465000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.358465000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.358465000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.358465000 Z
+
+---
+Upvote_77:
+  id: 86
+  user_id: 78
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.361564000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.361564000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.361564000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.361564000 Z
+
+---
+Upvote_78:
+  id: 87
+  user_id: 79
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.364410000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.364410000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.364410000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.364410000 Z
+
+---
+Upvote_79:
+  id: 88
+  user_id: 80
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.367489000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.367489000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.367489000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.367489000 Z
+
+---
+Upvote_80:
+  id: 89
+  user_id: 81
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.370843000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.370843000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.370843000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.370843000 Z
+
+---
+Upvote_81:
+  id: 90
+  user_id: 82
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.373746000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.373746000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.373746000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.373746000 Z
+
+---
+Upvote_82:
+  id: 91
+  user_id: 83
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.376645000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.376645000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.376645000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.376645000 Z
+
+---
+Upvote_83:
+  id: 92
+  user_id: 84
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.379590000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.379590000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.379590000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.379590000 Z
+
+---
+Upvote_84:
+  id: 93
+  user_id: 85
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.382491000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.382491000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.382491000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.382491000 Z
+
+---
+Upvote_85:
+  id: 94
+  user_id: 86
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.385429000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.385429000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.385429000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.385429000 Z
+
+---
+Upvote_86:
+  id: 95
+  user_id: 87
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.388404000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.388404000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.388404000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.388404000 Z
+
+---
+Upvote_87:
+  id: 96
+  user_id: 88
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.391455000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.391455000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.391455000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.391455000 Z
+
+---
+Upvote_88:
+  id: 97
+  user_id: 89
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.394450000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.394450000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.394450000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.394450000 Z
+
+---
+Upvote_89:
+  id: 98
+  user_id: 90
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.397497000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.397497000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.397497000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.397497000 Z
+
+---
+Upvote_90:
+  id: 99
+  user_id: 91
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.400557000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.400557000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.400557000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.400557000 Z
+
+---
+Upvote_91:
+  id: 100
+  user_id: 92
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.403571000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.403571000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.403571000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.403571000 Z
+
+---
+Upvote_92:
+  id: 101
+  user_id: 93
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.406661000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.406661000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.406661000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.406661000 Z
+
+---
+Upvote_93:
+  id: 102
+  user_id: 94
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.409589000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.409589000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.409589000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.409589000 Z
+
+---
+Upvote_94:
+  id: 103
+  user_id: 95
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.412480000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.412480000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.412480000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.412480000 Z
+
+---
+Upvote_95:
+  id: 104
+  user_id: 96
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.415453000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.415453000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.415453000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.415453000 Z
+
+---
+Upvote_96:
+  id: 105
+  user_id: 97
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.418353000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.418353000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.418353000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.418353000 Z
+
+---
+Upvote_97:
+  id: 106
+  user_id: 98
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.421290000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.421290000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.421290000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.421290000 Z
+
+---
+Upvote_98:
+  id: 107
+  user_id: 99
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.424504000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.424504000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.424504000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.424504000 Z
+
+---
+Upvote_99:
+  id: 108
+  user_id: 100
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.427532000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.427532000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.427532000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.427532000 Z
+
+---
+Upvote_100:
+  id: 109
+  user_id: 101
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.430490000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.430490000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.430490000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.430490000 Z
+
+---
+Upvote_101:
+  id: 110
+  user_id: 102
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.433553000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.433553000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.433553000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.433553000 Z
+
+---
+Upvote_102:
+  id: 111
+  user_id: 103
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.436539000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.436539000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.436539000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.436539000 Z
+
+---
+Upvote_103:
+  id: 112
+  user_id: 104
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.439507000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.439507000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.439507000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.439507000 Z
+
+---
+Upvote_104:
+  id: 113
+  user_id: 105
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.443777000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.443777000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.443777000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.443777000 Z
+
+---
+Upvote_105:
+  id: 114
+  user_id: 106
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.446815000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.446815000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.446815000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.446815000 Z
+
+---
+Upvote_106:
+  id: 115
+  user_id: 107
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.451218000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.451218000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.451218000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.451218000 Z
+
+---
+Upvote_107:
+  id: 116
+  user_id: 108
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.456099000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.456099000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.456099000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.456099000 Z
+
+---
+Upvote_108:
+  id: 117
+  user_id: 109
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.460838000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.460838000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.460838000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.460838000 Z
+
+---
+Upvote_109:
+  id: 118
+  user_id: 110
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.465599000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.465599000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.465599000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.465599000 Z
+
+---
+Upvote_110:
+  id: 119
+  user_id: 111
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.469319000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.469319000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.469319000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.469319000 Z
+
+---
+Upvote_111:
+  id: 120
+  user_id: 112
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.472736000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.472736000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.472736000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.472736000 Z
+
+---
+Upvote_112:
+  id: 121
+  user_id: 113
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.476861000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.476861000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.476861000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.476861000 Z
+
+---
+Upvote_113:
+  id: 122
+  user_id: 114
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.482493000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.482493000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.482493000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.482493000 Z
+
+---
+Upvote_114:
+  id: 123
+  user_id: 115
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.487410000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.487410000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.487410000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.487410000 Z
+
+---
+Upvote_115:
+  id: 124
+  user_id: 116
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.492351000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.492351000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.492351000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.492351000 Z
+
+---
+Upvote_116:
+  id: 125
+  user_id: 117
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.496976000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.496976000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.496976000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.496976000 Z
+
+---
+Upvote_117:
+  id: 126
+  user_id: 118
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.500965000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.500965000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.500965000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.500965000 Z
+
+---
+Upvote_118:
+  id: 127
+  user_id: 119
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.504679000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:26.504679000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:26.504679000 Z
+    zone: *1
+    time: 2022-05-17 06:04:26.504679000 Z
+
+---
+Upvote_119:
+  id: 128
+  user_id: 2
+  post_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:34.422258000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-05-17 06:04:34.422258000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-05-17 06:04:34.422258000 Z
+    zone: *1
+    time: 2022-05-17 06:04:34.422258000 Z
+

@@ -8,3 +8,4 @@ RUN _ruby_version=ruby-2.7.3 \
     && printf '{ rvm use $(rvm current); } >/dev/null 2>&1\n' >> "$HOME/.bashrc.d/70-ruby"
 
 RUN gem install bundler:2.2.17
+RUN apt install -y cron

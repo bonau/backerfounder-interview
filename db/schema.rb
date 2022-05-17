@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_05_12_225029) do
+ActiveRecord::Schema.define(version: 2022_05_17_053144) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -22,8 +22,10 @@ ActiveRecord::Schema.define(version: 2022_05_12_225029) do
     t.datetime "updated_at", precision: 6, null: false
     t.bigint "user_id", null: false
     t.string "ancestry"
+    t.float "weight"
     t.index ["ancestry"], name: "index_posts_on_ancestry"
     t.index ["user_id"], name: "index_posts_on_user_id"
+    t.index ["weight"], name: "index_posts_on_weight"
   end
 
   create_table "upvotes", force: :cascade do |t|
