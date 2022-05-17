@@ -5,7 +5,7 @@ ports:
   # Rails server
   - port: 3000
     onOpen: open-preview
-  # PostgreSQL server
+# PostgreSQL server
   - port: 5432
     onOpen: ignore
 
@@ -20,3 +20,4 @@ tasks:
 vscode:
   extensions:
     - rebornix.ruby
+    - wingrunr21.vscode-ruby

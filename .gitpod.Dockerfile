@@ -5,9 +5,9 @@ RUN _ruby_version=ruby-2.7.3 \
     && printf "rvm_gems_path=/home/gitpod/.rvm\n" > ~/.rvmrc \
     && bash -lc "rvm reinstall ruby-${_ruby_version} && rvm use ruby-${_ruby_version} --default && gem install rails" \
     && printf "rvm_gems_path=/workspace/.rvm" > ~/.rvmrc \
-    && printf '{ rvm use $(rvm current); } >/dev/null 2>&1\n' >> "$HOME/.bashrc.d/70-ruby" \
-    && printf 'gem install bundler:2.2.17'
+    && printf '{ rvm use $(rvm current); } >/dev/null 2>&1\n' >> "$HOME/.bashrc.d/70-ruby"
 
 ENV _ruby_version=ruby-2.7.3
 RUN gem install bundler:2.2.17
-RUN apt install -y cron && service cron start
+RUN sudo apt install -y cron
+RUN sudo service cron start
