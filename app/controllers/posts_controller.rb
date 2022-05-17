@@ -67,14 +67,14 @@ class PostsController < ApplicationController
   # POST /posts/1/upvote
   def upvote
     @upvote = @post.upvotes.where(user: current_user).first_or_create
-    redirect_to @post
+    redirect_to @post.root
   end
 
   # POST /posts/1/upvote
   def unvote
     @upvote = @post.upvotes.where(user: current_user).first
     @upvote.destroy if @upvote
-    redirect_to @post
+    redirect_to @post.root
   end
 
   private

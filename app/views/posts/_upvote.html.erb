@@ -1,0 +1,12 @@
+<div class="upvote">
+  <div class="button">
+  <%- if post.liked_by_user?(user) %>
+    <%= button_to '-', action: 'unvote', id: post.id, method: :post %>
+  <%- else %>
+    <%= button_to '+', action: 'upvote', id: post.id, method: :post %>
+  <%- end %>
+  </div>
+  <div title="weight: <%= h post.weight.to_f %>">
+    Upvotes: <%= post.upvotes.count %>
+  </div>
+</div>

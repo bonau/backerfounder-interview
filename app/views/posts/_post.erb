@@ -1,4 +1,5 @@
 <div class="comment">
+<%= render partial: 'upvote', locals: {post: post, user: current_user} %>
 <%= post.body %> by <%= post.user.email %> <%= link_to 'reply', action: 'comment', id: post.id if post.ancestor_ids.size < 8%>
 <%- post.children.each do |child| %>
     <%= render child %>
