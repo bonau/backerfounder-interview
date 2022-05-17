@@ -13,7 +13,9 @@ tasks:
   - init: >
       bundle install &&
       yarn install &&
-      rake db:create
+      rails webpacker:compile &&
+      rake db:create &&
+      rake db:migrate
     command: >
       rails server -b 0.0.0.0
 
