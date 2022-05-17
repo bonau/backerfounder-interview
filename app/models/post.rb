@@ -9,7 +9,8 @@ class Post < ApplicationRecord
 
     def self.update_weight
         Post.all.each do |post|
-            post.update(weight: (post.upvotes.size - 1) / ((Time.zone.now - post.created_at) ** 2))
+            weight = (post.upvotes.size - 1) / (((Time.zone.now - post.created_at) / 60 / 60) ** 1) # TODO conf gravity
+            post.update(weight: weight)
         end
     end
 end

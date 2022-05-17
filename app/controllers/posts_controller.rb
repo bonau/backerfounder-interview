@@ -5,7 +5,7 @@ class PostsController < ApplicationController
 
   # GET /posts or /posts.json
   def index
-    @posts = Post.roots
+    @posts = Post.roots.order(weight: :DESC).take(10) # TODO conf page num
   end
 
   # GET /posts/1 or /posts/1.json

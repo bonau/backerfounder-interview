@@ -23,5 +23,5 @@ require File.expand_path(File.dirname(__FILE__) + "/environment")
 set :output, {:error => 'error.log', :standard => 'cron.log'}
 
 every 1.minute do
-    runner "Post.update_weight"
+    rake "tools:update_weight"
 end
