@@ -1,5 +1,6 @@
 class PostsController < ApplicationController
   before_action :set_post, only: %i[ show edit update destroy comment upvote unvote ]
+  before_action :denied, only: %i[ edit update destroy ]
   #before_action :set_parent, only: %i[  ]
   before_action :authenticate_user!, except: [:index, :show]
 
@@ -86,5 +87,9 @@ class PostsController < ApplicationController
     # Only allow a list of trusted parameters through.
     def post_params
       params.require(:post).permit(:title, :body, :parent_id)
+    end
+
+    def denied
+      redirect_to '/'
     end
 end

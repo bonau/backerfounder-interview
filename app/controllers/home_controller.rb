@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
     def index
-        render :index
+        redirect_to controller: :posts, action: :index
     end
 end
