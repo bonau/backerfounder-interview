@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
-  resources :posts
+  resources :posts do
+    get 'page/:page', action: :index, on: :collection
+  end
   get 'posts/:id/comment', to: 'posts#comment'
   post 'posts/:id/upvote', to: 'posts#upvote'
   post 'posts/:id/unvote', to: 'posts#unvote'

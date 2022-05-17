@@ -23,4 +23,15 @@ namespace :tools do
     end
     STDERR.puts "%d upvotes for Post#%d created" % [@counter, args[:post_id]]
   end
+
+  desc "generate fake posts"
+  task :generate_posts, [:count] => :environment do |t, args|
+    args[:count].to_i.times do |i|
+      p Post.where(id: i).first_or_create(
+        title: Faker::Lorem.sentence,
+        body: Faker::Lorem.paragraph(sentence_count: 2),
+        user: User.order('RANDOM()').take(1).first
+      )
+    end
+  end
 end
