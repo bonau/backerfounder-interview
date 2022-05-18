@@ -2,3 +2,9 @@ language: ruby
 rvm:
  - 2.7.3
  - jruby
+services:
+  - postgresql
+before_script:
+  - psql -c 'create database demo_development;' -U postgres
+  - psql -c 'create database demo_test;' -U postgres
+  - psql -c 'create database demo_production;' -U postgres
